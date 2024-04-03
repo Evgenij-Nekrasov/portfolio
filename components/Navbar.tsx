@@ -4,7 +4,7 @@ import React from "react";
 
 const Navbar = () => {
    return (
-      <div className="fixed top-0 bg-transparent z-20 w-full flex gap-5 md:justify-between px-60 p-5">
+      <div className="fixed top-0 bg-transparent z-[20] w-full flex gap-5 md:justify-between md:px-60 p-5">
          <h1 className="text-white text-[45px]">
             Evgeny <span className="font-thin">Nekrasov</span>
             <span className="text-red-500">.</span>
